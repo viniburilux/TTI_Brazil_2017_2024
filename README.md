@@ -64,7 +64,7 @@ TTI_Brazil_2017_2024/
 
 - **Counter-intuitive spatial pattern:** Northeastern states lead mean TTI — Sergipe (0.146), Alagoas (0.143), Pernambuco (0.114) — while Mato Grosso ranks 19th (0.037) and Amazonas 27th (0.018).
 
-- **Top municipalities:** 19 of the 20 highest-TTI municipalities are in the Northeast, with Cumbe/SE leading (0.277).
+- **Top municipalities:** All 20 highest-TTI municipalities are in the Northeast, with Cumbe/SE leading (0.277).
 
 - **Multi-scale robustness:** three aggregation methods (direct pixel→state, pixel→municipality→state, 25 km regular grid) converge within ≤ 0.015 absolute difference, providing empirical evidence of the index's scale-invariance when analysis is kept uniform.
 
